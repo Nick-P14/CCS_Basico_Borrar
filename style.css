@@ -1,0 +1,13 @@
+body{background-color: red;}
+
+.container{ 
+    height: 60%;
+    background-color: blue;
+    background-position-x: left;
+    width: 50%;
+    margin: auto;
+}
+
+h1{
+   
+}
